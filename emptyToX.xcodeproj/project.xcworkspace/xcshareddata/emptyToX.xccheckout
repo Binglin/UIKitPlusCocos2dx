@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E360DD81-320F-43BF-938C-6DEDDE668AB4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>emptyToX</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8411B4F4-1458-4232-850D-A3D0FED4F26E</key>
+		<string>https://github.com/Binglin/LaserApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>emptyToX/emptyToX.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8411B4F4-1458-4232-850D-A3D0FED4F26E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Binglin/LaserApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8411B4F4-1458-4232-850D-A3D0FED4F26E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8411B4F4-1458-4232-850D-A3D0FED4F26E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BNPractice</string>
+		</dict>
+	</array>
+</dict>
+</plist>
